@@ -12,8 +12,7 @@ TG:@wurado
 
 Summary
 ---------
-I have a year of experience in the development of software projects. I have understanding and knowledge of the object-oriented approach and software engineering principles. 
-I have taken part in a life cycle of 2 software projects of various sizes, including application design from scratch. 
+I have a year of experience in the development of software projects. I have taken part in a life cycle of 2 software projects of various sizes, including application design from scratch. 
 
 
 
